@@ -1,0 +1,44 @@
+body{
+    font-family: 'Amiri', serif;
+    text-align: right; 
+    background-color: #3d5a80;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+.title{
+    background-color: #f4f1de;
+    font-weight: bold;
+    font-size: 40px;
+    margin: auto;
+    width: 400px;
+    height:100 px;
+    border-width: 15px;
+    border-radius: 15px;
+    border-color: #355070;
+    padding-top: 10px;
+    text-align: center;
+}
+.box{
+    background-color: #98c1d9;
+    margin: auto;
+    width: 600px;
+    height: px;
+    margin-top: 50px;
+}
+ul{
+    
+    font-size: 30px;
+    list-style-type: none ;
+    padding-right: 30px;
+}
+li{
+    text-align: right;
+}
+ol{
+    font-size: 30px;
+    padding-right: 30px;
+}
